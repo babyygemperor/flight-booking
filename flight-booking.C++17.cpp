@@ -327,9 +327,9 @@ void mainMenu(){
     char ch;
     system("clear");
     cout << "Welcome to Generic Airline Booking! \n"; 
-    line(30);
+    line(35);
     cout << italicsStart << "Choose an option to continue" << italicsEnd << '\n';
-    line(30);
+    line(35);
     cout << "1 : Login \n";
     cout << "2 : Create account \n";
     cout << "3 : Continue as guest \n";
